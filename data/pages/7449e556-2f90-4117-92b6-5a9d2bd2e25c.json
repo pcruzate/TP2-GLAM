@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-12-16T23:17:30.610Z",
+  "created_by": "pcruzate",
+  "title": "Demandas Libertad Expresion",
+  "slug": "demandas-libertad-expresion",
+  "updated_at": "2025-12-16T23:17:30.610Z",
+  "updated_by": "pcruzate",
+  "parent": "cff5c7a2-d1fb-4634-a44b-f903019bdabe",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "9f66ea19-2dee-46af-b1e8-082b7962dd1d"
+  }
+}
