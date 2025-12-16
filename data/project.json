@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "pcruzate",
+    "is_private": false,
+    "title": "TP 2 - GLAM",
+    "description": "“Megáfono – Demandas a periodistas: ataques a la libertad de expresión”\nEpisodio del programa Megáfono dedicado al análisis del incremento de demandas civiles contra periodistas en México como forma de presión y censura indirecta. A través de un diálogo entre periodistas y defensores de la libertad de expresión, se comparan los contextos legales de México, Estados Unidos y Europa. El programa examina los efectos de estas demandas en el periodismo de investigación, la autocensura y el derecho de la sociedad a estar informada.",
+    "language": "es",
+    "slug": "TP2-GLAM",
+    "creator": "pcruzate",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-12-16T23:14:11.644Z",
+    "updated_at": "2025-12-16T23:14:11.644Z"
   }
 }
